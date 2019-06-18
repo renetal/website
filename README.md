@@ -1,2 +1,2 @@
-# website
-Empowering Rental Businesses to Go Paperless
+# Renetal
+Empowering Rental Businesses to Go Paperless.
