@@ -13,7 +13,7 @@ We have written an in-depth article on the importance of digitization over [here
 ## Automate
 Quite often we are incredibly busy running our rental business on a regular basis and end up doing a lot of routine work without even knowing that this particular piece of work can be automated and can be done without any human interference and without negligence.
 
-Here are a couple of examples of automation:
+Here are a couple of examples of automation benefits:
 
 - Each morning, give me a list of pickups, returns, and a report that has been overdue.
 - Twice a day, automatically send a list of tasks to the crew and help them track it.
