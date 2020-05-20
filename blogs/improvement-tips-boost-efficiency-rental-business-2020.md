@@ -1,4 +1,4 @@
-# 5 Improvement tips to boost the efficiency of your rental business in 2020
+# 6 Improvement tips to boost the efficiency of your rental business in 2020
 
 Improving the efficiency of a rental company is not different from any other, but the priorities can be slightly different. It is important to help you improve your internal processes so that you can serve your customers well and focus more on your business. If customers are pleased, it would be easier to expect them to spread the word in your favour, which is the most efficient and productive marketing method.
 
