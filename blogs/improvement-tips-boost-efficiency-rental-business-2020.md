@@ -15,10 +15,10 @@ Quite often we are incredibly busy running our rental business on a regular basi
 
 Here are a couple of examples of automation:
 
--Each morning, give me a list of pickups, returns, and a report that has been overdue.
--Twice a day, automatically send a list of tasks to the crew and help them track it.
--Give me weekly and monthly comprehensive reports on the overall output of my business for a whole week or month.
--Acknowledge well in advance of the machinery that will have an upcoming repair.
+- Each morning, give me a list of pickups, returns, and a report that has been overdue.
+- Twice a day, automatically send a list of tasks to the crew and help them track it.
+- Give me weekly and monthly comprehensive reports on the overall output of my business for a whole week or month.
+- Acknowledge well in advance of the machinery that will have an upcoming repair.
  
 ## Improve Operations Process
 Rental business operations can be daunting tasks if you have a lot of inventory assets to handle and a lot of orders that keep the employees busy and put customer service at risk on some occasions.
