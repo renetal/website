@@ -2,7 +2,7 @@
 
 Improving the efficiency of a rental company is not different from any other, but the priorities may be slightly different. It is important to improve your internal processes so that your customers are well served and that you focus more on your business development. When your customers are pleased, that's when they're going to spread the world to your advantage, which is the most efficient and productive marketing tool.
 
-There are a lot of ways to improve the productivity of your rental operations, but here we have chosen the best approaches we've seen that have worked and helped our customers, and in this article we would be happy to share with you. 
+However, there are a number of ways to improve the productivity of your rental operations. But in this article, we are pleased to share with you the ***best-chosen approaches*** that have worked in the rental industry.
 
 
 ## Digitize
