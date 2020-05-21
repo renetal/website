@@ -1,4 +1,4 @@
-"![Improvement tips to boost the efficiency of your rental business using infographics](https://renetal.com/images/blog/important-efficiency-tips-boost-rental-business.jpg)
+![Improvement tips to boost the efficiency of your rental business using infographics](https://renetal.com/images/blog/important-efficiency-tips-boost-rental-business.jpg)
 
 Improving the efficiency of a rental company is not different from any other, but the priorities may be slightly different. It is important to improve your internal processes so that your customers are well served and that you focus more on your business development. When your customers are pleased, that's when they're going to spread the word to your advantage, which is the most efficient and productive marketing tool.
 
