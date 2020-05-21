@@ -35,7 +35,7 @@ Understanding the needs of a customer is extremely important for any business in
 
 In order to streamline and gain control of your rental business, it is essential to implement the "**[most trusted rental software](https://renetal.com)**" that would prevent users from making foolish mistakes and help you take control of your operations, which would also lead to overall improvement. As a bonus, you and your team will have more time to spend learning more about your customers and using the data to make strategic decisions that will help the business grow.
 
-## Inventory
+## Relevant Inventory
 Keeping the irrelevant inventory in-store and sorting through it to meet the needs of the customer can be time-consuming tasks for your staff, which contributes to increasing the waiting time for the customer-in some cases, which has led to a bit of frustration, which is bad customer experience.
 
 It is vital for any rental business owner to know their inventory assets well enough to identify them with their types or groups that are in demand, slow-moving or poorly performing as well. It's not an easy task to know your data insights manually, because it requires a very special analytical skills for anyone to traverse the data that you can rely on to make some smart business decisions. Often, this problem is solved by using the rental management software, which should provide you with the required analytical reports and charts in something that you obviously rely on.
@@ -44,10 +44,10 @@ It is vital for any rental business owner to know their inventory assets well en
 
 Any rental business would not want to rent out faulty equipment, or the worst case will be that your client has taken the equipment on a long term rental, and the fix is due early. How are you going to handle this situation by keeping costs low?
 
-Equipment servicing is another task that needs to be handled effectively as it adds to the profit and loss statement, and your accountant may be very curious to know the specifics of the equipment-level cost, weekly and monthly.
+Equipment service is another task that needs to be dealt with effectively, as it adds to the profit and loss statement, and your accountant may be very curious to know the specifics of the equipment – cost levels, weekly and monthly. The staff should always have a list of the equipment that is due for maintenance, and the software that you are using to handle business operations should alert users if any of the maintenance dates fall between the rental period.
 
 ## Daily Tasks
-Keeping track of the internal tasks that should be completed just before the pick-up date can be a challenging task during the peak season. Some inventory assets require a special set of checks before or after they are returned from the customer. Or, in some instances, the customer may have a very special requirement that you need to meet before you pick up.
+Keeping track of the internal tasks that should be completed just before the pick-up date can be easily missed due to the high volume of orders during the peak season. Some inventory assets require a special set of checks before or after being returned from the customer. Or, in some cases , the customer may have a very special requirement that you need to comply with before you pick up the rental order.
 
 The rental management software should have the built-in ability to create and assign tasks to the customer's rental order and assign them to the respective crew - so they can be easily tracked and managed.
 
@@ -56,6 +56,7 @@ If the rental operation is a manual where you need to track orders on excel shee
 
 But there is also a smarter way to do this by tracking orders in a sophisticated rental management software that can help you track orders by automating most of the hard work with the least effort possible.
 
-**Implementing the rental software that works for your business can be a lot simpler than you think. [Get in touch](https://renetal.com/contact-us) with us and we would be happy to listen to your pain points and advise you on the solution you need.** 
+
+**In order to significantly improve the efficiency of the rental business, it is worth considering implementing the rental software that works and can be a lot simpler than you think. [Get in touch](https://renetal.com/contact-us) with us and we would be happy to listen to your pain points and advise you on the solution you need.** 
 
 ***If you enjoyed reading this article, please don't forget to share it.***
