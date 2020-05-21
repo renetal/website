@@ -8,6 +8,13 @@ However, there are a number of ways to improve the productivity of your rental o
 ## Digitize
 Many different industries are already in the process of digitization around the world, but often we feel that the rental industry is a little behind when it comes to digitization. As I write this article, some of our consultants are working with our clients to understand their rental business process in order to digitize them and keep the transformation as seamlessly as possible.
 
+Once your operations have been digitized, the benefits can be quite obvious and seen very often, such as:
+
+- Reduction of costs
+- Reduces and eliminates redundancy in your paperwork.
+- Minimizes human error
+- Helps you to work with others, etc.
+
 We have written an in-depth article on the importance of digitization over [here](https://renetal.com/blog/the-importance-of-digitization-in-rental-business).
 
 ## Automate
