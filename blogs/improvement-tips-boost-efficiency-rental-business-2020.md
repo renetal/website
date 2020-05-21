@@ -1,6 +1,6 @@
 # 6 Improvement tips to boost the efficiency of your rental business in 2020
 
-Improving the efficiency of a rental company is not different from any other, but the priorities can be slightly different. It is important to help you improve your internal processes so that you can serve your customers well and focus more on your business. If customers are pleased, it would be easier to expect them to spread the word in your favour, which is the most efficient and productive marketing method.
+Improving the efficiency of a rental company is not different from any other, but the priorities may be slightly different. It is important to improve your internal processes so that your customers are well served and that you focus more on your business development. When your customers are pleased, that's when they're going to spread the world to your advantage, which is the most efficient and productive marketing tool.
 
 There are a lot of ways to improve the productivity of your rental operations, but here we have chosen the best approaches we've seen that have worked and helped our customers, and in this article we would be happy to share with you. 
 
